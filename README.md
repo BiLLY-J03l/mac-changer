@@ -10,8 +10,5 @@ Installation:
 2- > chmod +x macchanger.sh
 
 3- > ./macchanger.sh -i {interface} -m {MAC} 
-      OR
-     ./macchanger.sh -i {interface} -r
-
-
-
+      
+    ./macchanger.sh -i {interface} -r
