@@ -5,10 +5,15 @@ This script allows you to change or randomise the MAC address of a specified int
 
 Installation:
 
-1- > git clone https://github.com/BiLLY-J03l/arp-spoofer.git
+1-
 
-2- > chmod +x macchanger.sh
+      git clone https://github.com/BiLLY-J03l/mac-changer.git
 
-3- > ./macchanger.sh -i {interface} -m {MAC} 
+2- 
+
+      chmod +x macchanger.sh
       
-    ./macchanger.sh -i {interface} -r
+3-
+
+      ./macchanger.sh -i {interface} -m {MAC} 
+      ./macchanger.sh -i {interface} -r
