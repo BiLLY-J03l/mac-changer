@@ -1,9 +1,9 @@
 # mac-changer
 MAC changer with bash
 
-This script allows you to change or randomise the MAC address of a specified interface.
+-This script allows you to change or randomise the MAC address of a specified interface.
 
-Installation:
+-Installation:
 
 1-
 
